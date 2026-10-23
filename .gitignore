@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.env
+.env*.local
+*.tsbuildinfo
+.DS_Store
+coverage/
+brag-output/
+.trailer/
+.playwright-mcp/
+test-results/
